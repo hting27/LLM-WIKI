@@ -1,0 +1,21 @@
+| # | slide id | data-wiki | 數字 | 狀態 |
+|---|---|---|---|---|
+| 1 | cover | — | — | OK |
+| 2 | chatgpt | concepts/ai-agent-definition.md | — | OK |
+| 3 | definition | concepts/ai-agent-definition.md | — | OK |
+| 4 | recipe | concepts/workflows-vs-agents.md | — | OK |
+| 5 | anatomy | concepts/ai-agent-definition.md, concepts/augmented-llm.md | — | OK |
+| 6 | loop | concepts/agent-loop.md | — | OK |
+| 7 | react | concepts/react.md | 34%, 10% | OK |
+| 8 | planning | concepts/planning.md | — | OK |
+| 9 | memory | concepts/memory.md | 200,000 | OK |
+| 10 | tools | concepts/tool-use.md | 40% | OK |
+| 11 | patterns | concepts/workflow-patterns.md | — | OK |
+| 12 | multi | concepts/multi-agent-systems.md | 90.2%, 15倍, 15倍, 4倍 | OK |
+| 13 | when | concepts/when-to-use-agents.md | — | OK |
+| 14 | risks | concepts/challenges-and-risks.md, concepts/guardrails-human-oversight.md | — | OK |
+| 15 | eval | concepts/evaluation.md | — | OK |
+| 16 | quiz | concepts/ai-agent-definition.md, concepts/agent-loop.md, concepts/when-to-use-agents.md | — | OK |
+| 17 | refs | sources/s1-weng-2023.md, sources/s2-react.md, sources/s3-anthropic-bea.md, sources/s4-openai-guide.md, sources/s5-anthropic-multi-agent.md | — | OK |
+
+全部通過 ✅

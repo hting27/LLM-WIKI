@@ -1,0 +1,17 @@
+# Lint report (2026-11-23 15:16)
+
+- 頁面數：11
+- 錯誤：3
+- 警告：2
+
+## 錯誤
+
+- [index] index.md 沒有列出 concepts/agent-loop.md
+- [index] index.md 沒有列出 concepts/react.md
+- [index] index.md 沒有列出 sources/s2-react.md
+
+## 警告
+
+- [source] concepts/challenges-and-risks.md: 內文引用 ['S2'] 但 frontmatter sources 沒列
+- [source] concepts/planning.md: 內文引用 ['S2'] 但 frontmatter sources 沒列
+
